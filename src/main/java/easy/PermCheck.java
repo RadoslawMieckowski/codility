@@ -1,3 +1,5 @@
+package easy;
+
 import java.util.HashSet;
 import java.util.Set;
 //Check whether array A is a permutation.

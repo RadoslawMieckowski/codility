@@ -1,3 +1,5 @@
+package easy;
+
 public class SmallestDifferenceInPartitions {
     public static void main(String[] args) {
         int table[] = {3, 1, 2, 4, 3};

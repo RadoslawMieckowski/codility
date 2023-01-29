@@ -1,3 +1,5 @@
+package easy;
+
 import java.util.HashSet;
 import java.util.Set;
 // https://app.codility.com/programmers/lessons/4-counting_elements/
